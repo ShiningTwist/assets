@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CActorUnit id="Carrier">
+        <UnitKillRank index="0" Text="UnitKillRank/Instructor"/>
+    </CActorUnit>
+    <!-- Corsair          -->
+    <CActorUnit id="CorsairMP">
+        <UnitKillRank index="0" Text="UnitKillRank/Corsair"/>
+    </CActorUnit>
+    <!--                                                                                         -->
+    <!-- Defiler ............................................................................... -->
+    <!--                                                                                         -->
+    <CActorUnit id="DefilerMP">
+        <UnitKillRank index="0" Text="UnitKillRank/Infiltrator"/>
+    </CActorUnit>
+</Catalog>
