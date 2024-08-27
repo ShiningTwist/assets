@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CreditEntryList>
+    <CreditEntry templatename="CreditsEntryBlankTemplate" offset="190"/>
+	
+<!-- 
+    <CreditEntry type="FadingFrame" text="@UI/CreditText/MassRecall/massrecall" templatename="CreditsEntryVeryLargeHeadingTemplate" fadetime="3000"/>
+-->
+    <CreditEntry type="FadingFrame" templatename="CreditsEntryTextureTemplate" texture="@UI/CreditsLogoSCMR" fadetime="3000"/>
+	<CreditEntry type="FadingFrame" text="@UI/CreditText/MassRecall/Team2" templatename="CreditsEntryDefaultTemplate" fadetime="4000"/>
+<!--  
+	<CreditEntry type="FadingFrame" text="@UI/CreditText/MassRecall/Team" templatename="CreditsEntryVeryLargeHeadingTemplate" fadetime="3000"/>
+    <CreditEntry templatename="CreditsEntryBlankTemplate"/>  	
+  	<CreditEntry text="@UI/CreditText/MassRecall/Joonas" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Fabrice" templatename="CreditsEntryDefaultTemplate"\>
+    <CreditEntry text="@UI/CreditText/MassRecall/Iurii" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Andrew" templatename="CreditsEntryDefaultTemplate" offset="140"/>
+-->
+    <!--
+	###############  map design ################
+	-->
+    <CreditEntry text="@UI/CreditText/MassRecall/MapDesign" templatename="CreditsEntryVeryLargeHeadingTemplate" offset="140"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  lead design  -->
+    <CreditEntry text="@UI/CreditText/MassRecall/LeadDesign" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Jones" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Telenil" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  scripting	-->
+	<CreditEntry text="@UI/CreditText/MassRecall/scripting" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Jones" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Telenil" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Jimm" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Gradius" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Re1deR" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Kostyarik" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/OmegaWeaponX85" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Azureguy" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Ultraling" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/christdaugherty" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Superfield" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/herdal8" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Logan" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Tolkfan" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  AI scripting  -->
+    <CreditEntry text="@UI/CreditText/MassRecall/AIscripting" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Telenil" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Jones" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/OmegaWeaponX85" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  additional AI scripting  -->
+    <CreditEntry text="@UI/CreditText/MassRecall/AddAIscripting" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/AIUltraling" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/AIchristdaugherty" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  terraining  -->
+    <CreditEntry text="@UI/CreditText/MassRecall/terraining" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Jones" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Jimm" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  additional terraining  -->
+    <CreditEntry text="@UI/CreditText/MassRecall/AddTerraining" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/TerUltraling" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Terjohnnythewolf" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Terchristdaugherty" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/TerTheTorrasque" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/OmegaWeaponX85" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  cutscenes  -->
+    <CreditEntry text="@UI/CreditText/MassRecall/cutscenes" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Jones" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Telenil" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  campaign launcher  -->			    
+    <CreditEntry text="@UI/CreditText/MassRecall/CampaignLauncherUI" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/herdal8" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Jones" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+<!--  additional UI design  -->			    
+    <CreditEntry text="@UI/CreditText/MassRecall/AddUIdesign" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Kostyarik" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Re1deR" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/herdal8" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Jones" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/OmegaWeaponX85" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  production director  -->
+    <CreditEntry text="@UI/CreditText/MassRecall/ProductionDirector" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Jayborino" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  third person shooter engine  -->
+    <CreditEntry text="@UI/CreditText/MassRecall/shooter" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/martinolsson" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  "Enslavers Redux"  -->
+    <CreditEntry text="@UI/CreditText/MassRecall/EnslaversRedux" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/OmegaWeaponX85" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  "Resurrection IV"  -->
+    <CreditEntry text="@UI/CreditText/MassRecall/Resurrection" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Gradius" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+<!--  cinematics implemented by  -->
+    <CreditEntry text="@UI/CreditText/MassRecall/cinematics" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Re1deR" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  SCMR installer by  -->
+    <CreditEntry text="@UI/CreditText/MassRecall/installer" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Kostyarik" templatename="CreditsEntryDefaultTemplate" offset="190"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--
+	###############  SCMRmod  ###############
+	-->
+    <CreditEntry text="@UI/CreditText/MassRecall/SCMRmod" templatename="CreditsEntryVeryLargeHeadingTemplate" offset="140"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  based on the Starcraft 2: Brood War mod  -->
+    <CreditEntry text="@UI/CreditText/MassRecall/SCBWmod" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/MavercK" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <!--  additional gameplay data  -->	
+    <CreditEntry text="@UI/CreditText/MassRecall/GameplayDataMod" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Jones" templatename="CreditsEntryDefaultTemplate"/>	
+    <CreditEntry text="@UI/CreditText/MassRecall/Jimm" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Telenil" templatename="CreditsEntryDefaultTemplate"/>	
+    <CreditEntry text="@UI/CreditText/MassRecall/Gradius" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Superfield" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/christdaugherty" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/OmegaWeaponX85" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Azureguy" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/SpaceCow" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Omar" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+    <CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  retro version by  -->	
+    <CreditEntry text="@UI/CreditText/MassRecall/RetroMod" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Gradius" templatename="CreditsEntryDefaultTemplate" offset="190"/>	
+    <CreditEntry templatename="CreditsEntryBlankTemplate"/>
+		<!--
+	###############  SCMRlocal  ###############
+	-->
+    <CreditEntry text="@UI/CreditText/MassRecall/SCMRlocal" templatename="CreditsEntryVeryLargeHeadingTemplate" offset="140"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  localization framework  -->
+    <CreditEntry text="@UI/CreditText/MassRecall/SCMRlocalization" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Kostyarik" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Re1deR" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--
+	#############  graphic design  ###############
+	-->
+    <CreditEntry text="@UI/CreditText/MassRecall/GraphicMod" templatename="CreditsEntryVeryLargeHeadingTemplate" offset="140"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  custom 3D models & textures  -->
+    <CreditEntry text="@UI/CreditText/MassRecall/3DmodelsTextures" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+   	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/GhostNova" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/DaveSpectre" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Thrikodias" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/GnaReffotsirk" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/XibadivS" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Cacho56" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Alleyviper" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/SoulFilcher" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+    <CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  custom 3D models & textures  -->
+    <CreditEntry text="@UI/CreditText/MassRecall/Add3DmodelsTextures" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+   	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/EntertainmentProject" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/buhhy" templatename="CreditsEntryDefaultTemplate"/>	
+    <CreditEntry text="@UI/CreditText/MassRecall/TaylorMouse" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/ZeShmoutt" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Hammer107" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Kailniris2" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Kanitala" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/MSeverns" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Skulluse" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/SyCoAttack" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/TooMuchTuch" templatename="CreditsEntryDefaultTemplate"/>	
+	<CreditEntry text="@UI/CreditText/MassRecall/Delphinium1987" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/KORroy" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Frankiealaplaaja" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Kostyarik" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Re1deR" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Gradius" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Azureguy" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Jones" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+    <CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  additional custom model & texture support   -->
+    <CreditEntry text="@UI/CreditText/MassRecall/Add3DmodelsTexturesSup" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/NiNToxicated" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/DeveRR0" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Phygis" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Cacho56" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  Mass Recall loading screen  -->
+    <CreditEntry text="@UI/CreditText/MassRecall/LoadingScreen" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Jones" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <!--  additional remastered artwork  -->
+    <CreditEntry text="@UI/CreditText/MassRecall/RemasteredArt" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/luhkoala" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  Mass Recall logo  -->
+    <CreditEntry text="@UI/CreditText/MassRecall/Logo" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Existor" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  trailer  -->
+    <CreditEntry text="@UI/CreditText/MassRecall/Trailer" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Bizzar" templatename="CreditsEntryDefaultTemplate"/>	
+    <CreditEntry text="@UI/CreditText/MassRecall/Telenil" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/OmegaWeaponX85" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  installation guide  -->
+    <CreditEntry text="@UI/CreditText/MassRecall/Guide" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Telenil" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Jayborino" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/DeltronLive" templatename="CreditsEntryDefaultTemplate" offset="190"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--
+	############  music  ###############
+	-->
+	<CreditEntry text="@UI/CreditText/MassRecall/Music" templatename="CreditsEntryVeryLargeHeadingTemplate" offset="140"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/StarcraftSoundtrack" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/GlennStafford" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/DerekDuke" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/JasonHayes" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/TracyBush" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  additional music  -->
+    <CreditEntry text="@UI/CreditText/MassRecall/AddMusic" templatename="CreditsEntryVeryLargeHeadingTemplate" offset="140"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/StarcraftSoundtrackWoL" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/DerekDuke" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/GlennStafford" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/RussellBrower" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/NealAcree" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/StarcraftSoundtrackHotS" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/GlennStafford" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/JasonHayes" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/RussellBrower" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/NealAcree" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/DerekDuke" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/StarcraftSoundtrackLotV" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/JasonHayes" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/MikePatti" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/NealAcree" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/GlennStafford" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  Episode I: Rebel Yell  -->
+	<CreditEntry text="@UI/CreditText/MassRecall/EpisodeI" templatename="CreditsEntryLargeHeadingTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/MetallicMonks" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/MarkMorgan" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Fallout" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/LastLegs" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/KellyBailey" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/OrangeBox" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/TerranMetal" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/CharlieParra" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/CharlieparraCom" templatename="CreditsEntryDefaultTemplate" offset="140"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  Episode II: Overmind  -->
+	<CreditEntry text="@UI/CreditText/MassRecall/EpisodeII" templatename="CreditsEntryLargeHeadingTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/GuardDown" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/KellyBailey" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/OrangeBox" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/TheMaw" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/DonnellSalvatori" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/HaloOriginal" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/ChapelofEvil" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/RussellShaw" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Fable" templatename="CreditsEntryDefaultTemplate" offset="140"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  Episode III: The Fall  -->
+	<CreditEntry text="@UI/CreditText/MassRecall/EpisodeIII" templatename="CreditsEntryLargeHeadingTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Toru" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/MattUelmen" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Diablo2OST" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Shuulathoi" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/KellyBailey" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/OrangeBox" templatename="CreditsEntryDefaultTemplate" offset="140"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  Episode IV: The Stand  -->
+	<CreditEntry text="@UI/CreditText/MassRecall/EpisodeIV" templatename="CreditsEntryLargeHeadingTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Highmen" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/MichielBos" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/AgeWonders" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/MetallicMonks" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/MarkMorgan" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Fallout" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/SiegeMadrigal" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/MartinDonnell" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Myth" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Impend" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/MartinDonnell" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Halo2Original" templatename="CreditsEntryDefaultTemplate" offset="140"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  Episode V: The Iron Fist  -->
+	<CreditEntry text="@UI/CreditText/MassRecall/EpisodeV" templatename="CreditsEntryLargeHeadingTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/VatsGoo" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/MarkMorgan" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Fallout" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/UntitledTrackMission5" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/RobinBeanland" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Conker" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Valkyries" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/RichardWagner" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/RingNibelung" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Rumble" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/WrayMen" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/WingsLibertyMCDK" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/MarchDoom" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/FrankKlepacki" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/CommandConquer" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/JemsSong" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/BigTuna" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/StarcraftMusic" templatename="CreditsEntryDefaultTemplate" offset="140"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  Episode VI: Queen of Blades  -->
+	<CreditEntry text="@UI/CreditText/MassRecall/EpisodeVI" templatename="CreditsEntryLargeHeadingTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/MetallicMonks" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/MarkMorgan" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Fallout" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/SuspiciousMinds" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/JamesPresley" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/WingsLibertyBC" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/RoomAmbience" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/YamamotoHamano" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/SuperMetroid" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Infraradiant" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/KellyBailey" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/OrangeBox" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/AshesAshes" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/zircon" templatename="CreditsEntryDefaultTemplate"/>	
+    <CreditEntry text="@UI/CreditText/MassRecall/OcremixZirconmusic" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/ZergThemeEpicRock" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/LittleVMills" templatename="CreditsEntryDefaultTemplate"/>	
+    <CreditEntry text="@UI/CreditText/MassRecall/youtube2" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/TheForge" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/MartinDonnell" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Myth2" templatename="CreditsEntryDefaultTemplate" offset="190"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  testing  -->
+    <CreditEntry text="@UI/CreditText/MassRecall/Testing" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Telenil" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Jimm" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Jones" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Gradius" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Azureguy" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/628w" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/squidntrolloctopus" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Sulaco" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Bizzar" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/RocknRollKid" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Jayborino" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/JoroA" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/jdc" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Dante" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Zibiri" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Blazieth" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/AllArmyHotky" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Alternative" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/varsovie" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/allan63" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Joe_da_Immortal" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Frosty4k" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Tamplier_74" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/bewd85" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/atxthrowthrow" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/civcivcivcivciv" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/wrace0" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/DarkTemplarVorazun" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/smokedmarine" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Mavbyte" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/smagau" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/duncanidaho4" templatename="CreditsEntryDefaultTemplate" offset="190"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--
+	###########  localization  ###########
+	-->
+    <CreditEntry text="@UI/CreditText/MassRecall/localization" templatename="CreditsEntryVeryLargeHeadingTemplate" offset="140"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  French version  -->
+	<CreditEntry text="@UI/CreditText/MassRecall/French" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Choum28" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  Russian version  -->	
+	<CreditEntry text="@UI/CreditText/MassRecall/Russian" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Re1deR" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/TranslatorsRus|@UI/CreditText/MassRecall/TranslatorsRus1" templatename="CreditsEntryMovieColumnTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/TranslatorsRus0|@UI/CreditText/MassRecall/TranslatorsRus2" templatename="CreditsEntryMovieColumnTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/TranslatorsRus0|@UI/CreditText/MassRecall/TranslatorsRus3" templatename="CreditsEntryMovieColumnTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/TranslatorsRus0|@UI/CreditText/MassRecall/TranslatorsRus4" templatename="CreditsEntryMovieColumnTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  Italian version  -->	
+	<CreditEntry text="@UI/CreditText/MassRecall/Italian" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Zarxiel93" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  German version  -->	
+	<CreditEntry text="@UI/CreditText/MassRecall/German" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/FirefoxGhost" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  Korean version  -->	
+	<CreditEntry text="@UI/CreditText/MassRecall/Korean" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/storycraft" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  Chinese version  -->		
+	<CreditEntry text="@UI/CreditText/MassRecall/Chinese" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/qimingnan" templatename="CreditsEntryDefaultTemplate" offset="190"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--
+	########  sources consulted during development ##########
+	-->
+    <CreditEntry text="@UI/CreditText/MassRecall/Consulted" templatename="CreditsEntryVeryLargeHeadingTemplate" offset="140"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  Galaxy Editor help  -->	
+	<CreditEntry text="@UI/CreditText/MassRecall/EditorHelp" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/sc2mapster" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  story/Starcraft universe -->	
+	<CreditEntry text="@UI/CreditText/MassRecall/storyStarcraft" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/StarcraftWiki" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Subsourian" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  BW gameplay info -->	
+	<CreditEntry text="@UI/CreditText/MassRecall/BWGameplayInfo" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/liquipedia" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  walkthroughs/playthroughs -->	
+	<CreditEntry text="@UI/CreditText/MassRecall/WalkthroughsPlaythroughs" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/strategywikiWalk|@UI/CreditText/MassRecall/strategywiki" templatename="CreditsEntryMovieColumnTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/SephirothKatana|@UI/CreditText/MassRecall/gamefaqs" templatename="CreditsEntryMovieColumnTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/yipzhangs|@UI/CreditText/MassRecall/youtube" templatename="CreditsEntryMovieColumnTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  transcripts -->	
+	<CreditEntry text="@UI/CreditText/MassRecall/transcripts" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/AdmiralPo|@UI/CreditText/MassRecall/gamefaqs" templatename="CreditsEntryMovieColumnTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Magic|@UI/CreditText/MassRecall/samods" templatename="CreditsEntryMovieColumnTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  all campaigns originally by  -->	
+	<CreditEntry text="@UI/CreditText/MassRecall/AllCampaigns" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Blizzard" templatename="CreditsEntryDefaultTemplate" offset="190"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!-- 
+	######## original Blizzard campaign credits  #########  
+	-->
+	<CreditEntry templatename="CreditsEntryTextureTemplate" texture="@UI/CreditsLogoBlizzard" offset="140"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/BlizzardCredits" templatename="CreditsEntryVeryLargeHeadingTemplate" offset="140"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  story & script  -->	
+    <CreditEntry text="@UI/CreditText/MassRecall/SoryScript" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/ChrisMetzen" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/JamesPhinney" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  level design  -->	
+    <CreditEntry text="@UI/CreditText/MassRecall/LevelDesign" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/MikeHeiberg" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/RobPardo" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/DeanShipley" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/PeterUnderwood" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  cinematic directors  -->	
+    <CreditEntry text="@UI/CreditText/MassRecall/CinematicDirectors" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/MattSamia" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/DuaneStinnett" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <!--  cinematic 3D artists  -->	
+    <CreditEntry text="@UI/CreditText/MassRecall/Cinematic3Dartists" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/MattSamia" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/DuaneStinnett" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/BrianSousa" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/NickCarpenter" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/TrevorJacobs" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/HarleyHuggins" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/RobMcNaughton" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/ScottAbeyta" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/StuRose" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/SharonShellman" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/BillPetras" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/DavidPursley" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/MaxxMarshall" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/EricFlannum" templatename="CreditsEntryDefaultTemplate" offset="100"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>	
+	<!--  Starcraft soundtrack by  -->
+	<!--  voice casting and direction  -->	
+    <CreditEntry text="@UI/CreditText/MassRecall/VoiceCasting" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+    <CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/GlennStafford" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/JasonHayes" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/ChrisMetzen" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/TamiDonner" templatename="CreditsEntryDefaultTemplate" offset="190"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--  the cast  -->	
+    <CreditEntry text="@UI/CreditText/MassRecall/TheCast" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/GlynnisTalken|@UI/CreditText/MassRecall/Kerrigan" templatename="CreditsEntryMovieColumnTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/RobertClotworthy|@UI/CreditText/MassRecall/Raynor" templatename="CreditsEntryMovieColumnTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/MichaelGough|@UI/CreditText/MassRecall/Tassadar" templatename="CreditsEntryMovieColumnTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/JackRitschel|@UI/CreditText/MassRecall/Duke" templatename="CreditsEntryMovieColumnTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/PaulEiding|@UI/CreditText/MassRecall/Aldaris" templatename="CreditsEntryMovieColumnTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/TiffanyHayes|@UI/CreditText/MassRecall/Adjutant" templatename="CreditsEntryMovieColumnTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/BillRoper|@UI/CreditText/MassRecall/Fenix" templatename="CreditsEntryMovieColumnTemplate"/>	
+    <CreditEntry text="@UI/CreditText/MassRecall/JamesHarper|@UI/CreditText/MassRecall/Mengsk" templatename="CreditsEntryMovieColumnTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/MickeyNeilson|@UI/CreditText/MassRecall/Daggoth" templatename="CreditsEntryMovieColumnTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/CastuloGuerra|@UI/CreditText/MassRecall/Stukov" templatename="CreditsEntryMovieColumnTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/PaulAinsley|@UI/CreditText/MassRecall/Artanis" templatename="CreditsEntryMovieColumnTemplate"/>	
+    <CreditEntry text="@UI/CreditText/MassRecall/DebraDeliso|@UI/CreditText/MassRecall/Raszagal" templatename="CreditsEntryMovieColumnTemplate" offset="190"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<!--        the Mass Recall team would like to thank   -->
+    <CreditEntry text="@UI/CreditText/MassRecall/thank" templatename="CreditsEntryLargeHeadingTemplate" offset="40"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Blizzard" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/sc2mapster" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Ultraling" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/MavercK" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/christdaugherty" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Superfield" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Azureguy" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/SpaceCow" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Cacho56" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/herdal8" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/GnaReffotsirk" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/GhostNova91" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Thrikodias" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/DaveSpectre" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Bizzar" templatename="CreditsEntryDefaultTemplate"/>	
+    <CreditEntry text="@UI/CreditText/MassRecall/TheTorrasque" templatename="CreditsEntryDefaultTemplate"/>	
+    <CreditEntry text="@UI/CreditText/MassRecall/johnnythewolf" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Subsourian" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/XibadivS" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/SoulFilcher" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Alleyviper" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Omar" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/luhkoala" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Existor" templatename="CreditsEntryDefaultTemplate"/>	
+	<CreditEntry text="@UI/CreditText/MassRecall/valas991" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/628w" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/squidntrolloctopus" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/Sulaco" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Blazieth" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/AllArmyHotky" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/RocknRollKid" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/JoroA" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/jdc" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Dante" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Zibiri" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Alternative" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/varsovie" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/FirefoxGhost" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/DeltronLive" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Kanitala" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/sc2broodsc2" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Frankiealaplaaja" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/allan63" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Joe_da_Immortal" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Frosty4k" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Tamplier_74" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/bewd85" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/atxthrowthrow" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/civcivcivcivciv" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/wrace0" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/DarkTemplarVorazun" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/smokedmarine" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/Mavbyte" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/smagau" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/duncanidaho4" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/tripshroom" templatename="CreditsEntryDefaultTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/zircon" templatename="CreditsEntryDefaultTemplate"/>
+	<CreditEntry text="@UI/CreditText/MassRecall/AllPeople" templatename="CreditsEntryDefaultTemplate" offset="200"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry text="@UI/CreditText/MassRecall/ThankYou" templatename="CreditsEntryLargeHeadingTemplate" offset="140"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+    <CreditEntry templatename="CreditsEntryTextureTemplate" texture="@UI/CreditsLogoSC2Mapster" offset="190"/>
+	<CreditEntry templatename="CreditsEntryBlankTemplate"/>
+</CreditEntryList>
+	
+<!--  &quot;  - "
+     &#8226; 
+	 |  |     
+-->

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+    <CCharacter id="ArchonsMR">
+        <Color value="255,0,128,192"/>
+    </CCharacter>
+    <CCharacter id="BunkerTurretMR">
+        <Color value="255,2,213,2"/>
+    </CCharacter>
+    <CCharacter id="PhotonBatteryMR">
+        <Color value="255,39,197,224"/>
+    </CCharacter>
+    <CCharacter id="ColoniesMR">
+        <Color value="255,152,52,89"/>
+    </CCharacter>
+    <CCharacter id="OtherBuldings">
+        <Color value="255,2,213,2"/>
+    </CCharacter>
+    <CCharacter id="JudicatorAlertMR">
+        <Color value="255,2,213,2"/>
+    </CCharacter>
+    <CCharacter id="AdjutantMR">
+        <Color value="255,2,213,2"/>
+    </CCharacter>
+    <CCharacter id="AldarisMR">
+        <Color value="255,7,102,0"/>
+    </CCharacter>
+    <CCharacter id="ArchontMR">
+        <Name value="Character/Name/ArchonMR"/>
+        <RaceCustom value="Character/Race/ArchonMR"/>
+        <Attitude value="Character/Attitude/ArchonMR"/>
+        <Timbre value="Character/Timbre/ArchonMR"/>
+        <Dialect value="Character/Dialect/ArchonMR"/>
+        <VoiceRef value="Character/VoiceRef/ArchonMR"/>
+        <Description value="Character/Description/ArchonMR"/>
+        <Color value="255,54,252,252"/>
+    </CCharacter>
+    <CCharacter id="ArtanisMR">
+        <Color value="255,39,197,224"/>
+    </CCharacter>
+    <CCharacter id="BattlecruisersMR">
+        <Color value="255,0,24,240"/>
+    </CCharacter>
+    <CCharacter id="CerberusMR">
+        <Color value="255,86,165,118"/>
+    </CCharacter>
+    <CCharacter id="CerberusFirebatMR">
+        <Color value="255,245,169,10"/>
+    </CCharacter>
+    <CCharacter id="CerberusGoliathMR">
+        <Color value="255,131,131,131"/>
+    </CCharacter>
+    <CCharacter id="CivilianMR">
+        <Color value="255,107,255,70"/>
+    </CCharacter>
+    <CCharacter id="CollinsMR">
+        <Color value="255,65,99,41"/>
+    </CCharacter>
+    <CCharacter id="CorsairMR">
+        <Color value="255,156,148,41"/>
+    </CCharacter>
+    <CCharacter id="DaggothMR">
+        <Color value="255,121,72,96"/>
+    </CCharacter>
+    <CCharacter id="DragoonMR">
+        <Color value="255,239,234,10"/>
+    </CCharacter>
+    <CCharacter id="DropshipMR">
+        <Color value="255,81,181,240"/>
+    </CCharacter>
+    <CCharacter id="DuGalle"/>
+    <CCharacter id="DuGalleMR">
+        <Color value="255,132,95,38"/>
+    </CCharacter>
+    <CCharacter id="DukeMR">
+        <Color value="255,153,2,17"/>
+    </CCharacter>
+    <CCharacter id="DuranMR">
+        <Color value="255,119,35,129"/>
+    </CCharacter>
+    <CCharacter id="FenixMR">
+        <Color value="255,185,163,9"/>
+    </CCharacter>
+    <CCharacter id="FirebatMR">
+        <Color value="255,203,106,41"/>
+    </CCharacter>
+    <CCharacter id="Flightmember3"/>
+    <CCharacter id="GhostMR">
+        <Color value="255,0,0,0"/>
+    </CCharacter>
+    <CCharacter id="GoliathMR">
+        <Color value="255,23,27,28"/>
+    </CCharacter>
+    <CCharacter id="HighTemplarMR">
+        <Color value="255,0,188,193"/>
+    </CCharacter>
+    <CCharacter id="DarkTemplarMR">
+        <Color value="255,4,202,153"/>
+    </CCharacter>
+    <CCharacter id="InfestedTerranMR">
+        <Color value="255,152,52,89"/>
+    </CCharacter>
+    <CCharacter id="Jem"/>
+    <CCharacter id="Joeyray"/>
+    <CCharacter id="CerebrateAlertMR">
+        <Color value="255,2,213,2"/>
+    </CCharacter>
+    <CCharacter id="KerriganEmpty">
+        <Color value="255,255,0,0"/>
+        <Gender value="Female"/>
+    </CCharacter>
+    <CCharacter id="KerriganMR">
+        <Color value="255,191,45,158"/>
+    </CCharacter>
+    <CCharacter id="Lester"/>
+    <CCharacter id="Malmsteen"/>
+    <CCharacter id="Marine"/>
+    <CCharacter id="MarineMR">
+        <Color value="255,28,40,159"/>
+    </CCharacter>
+    <CCharacter id="MedicMR">
+        <Color value="255,255,15,15"/>
+    </CCharacter>
+    <CCharacter id="MorrisMR">
+        <Color value="255,147,116,199"/>
+    </CCharacter>
+    <CCharacter id="Newscaster"/>
+    <CCharacter id="OvermindMR">
+        <Color value="255,198,43,38"/>
+    </CCharacter>
+    <CCharacter id="Private"/>
+    <CCharacter id="RaszagalMR">
+        <Color value="255,122,18,199"/>
+    </CCharacter>
+    <CCharacter id="RescuedFirebatMR">
+        <Color value="255,215,125,53"/>
+    </CCharacter>
+    <CCharacter id="RaynorMR">
+        <Color value="255,108,98,242"/>
+    </CCharacter>
+    <CCharacter id="SCVMR">
+        <Color value="255,9,136,142"/>
+    </CCharacter>
+    <CCharacter id="MengskMR">
+        <Color value="255,52,163,66"/>
+    </CCharacter>
+    <CCharacter id="Sarge"/>
+    <CCharacter id="ScientistMR">
+        <Color value="255,132,183,138"/>
+    </CCharacter>
+    <CCharacter id="Stukov2">
+        <Color value="255,41,194,194"/>
+    </CCharacter>
+    <CCharacter id="StukovMR">
+        <Color value="255,56,55,111"/>
+    </CCharacter>
+    <CCharacter id="TaldarinMR">
+        <Color value="255,29,188,104"/>
+    </CCharacter>
+    <CCharacter id="TankdriverMR">
+        <Color value="255,147,147,132"/>
+    </CCharacter>
+    <CCharacter id="TassadarMR">
+        <Color value="255,20,208,214"/>
+    </CCharacter>
+    <CCharacter id="TemplarMR">
+        <Color value="255,43,227,218"/>
+    </CCharacter>
+    <CCharacter id="ValkyrieMR">
+        <Color value="255,130,124,175"/>
+    </CCharacter>
+    <CCharacter id="VultureMR"/>
+    <CCharacter id="WingCommander"/>
+    <CCharacter id="Wingman"/>
+    <CCharacter id="WingmanHarley"/>
+    <CCharacter id="ZeratulMR">
+        <Color value="255,2,213,2"/>
+    </CCharacter>
+    <CCharacter id="ZaszMR">
+        <Color value="255,121,98,62"/>
+    </CCharacter>
+    <CCharacter id="ZealotMR">
+        <Color value="255,116,194,194"/>
+    </CCharacter>
+    <CCharacter id="AdjutantAlertMR">
+        <Color value="255,2,213,2"/>
+    </CCharacter>
+    <CCharacter id="DarkVoiceMR">
+        <Color value="255,252,1,7"/>
+    </CCharacter>
+</Catalog>
